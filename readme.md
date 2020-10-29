@@ -33,6 +33,7 @@ $  redis-server --daemonize yes
 ```
 
 then use `run dev` command to run the project on your web browser in dev mode:
+```
 $ npm run dev 
 ```
 
